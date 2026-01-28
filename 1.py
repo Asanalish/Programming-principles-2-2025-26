@@ -7,3 +7,4 @@ while i < 10:
     print("\n")
     j=1
     i+=1
+    print("hello world")
