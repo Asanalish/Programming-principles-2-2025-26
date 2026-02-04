@@ -1,7 +1,7 @@
 # Python Booleans
-print(10 > 9)
-print(10 == 9)
-print(10 < 9)
+print(20 > 10)
+print(20 == 21)
+print(99 < 98.9)
 
 a = 200
 b = 33
@@ -33,11 +33,8 @@ bool({})
 
 
 # One more value, or object in this case, evaluates to False:
-class myclass():
-  def __len__(self):
-    return 0
-myobj = myclass()
-print(bool(myobj))
+mylist = []
+print(bool(mylist))  #False
 
 
 def myFunction():
@@ -52,7 +49,7 @@ if myFunction():
 else:
   print("NO!")
 
-#booleans exercisehnn
+#booleans 
 print(10>9) #return True
 
 print(10==9) #return False
