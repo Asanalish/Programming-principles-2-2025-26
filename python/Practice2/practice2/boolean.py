@@ -1,7 +1,24 @@
-# Python Booleans
-print(20 > 10)
-print(20 == 21)
-print(99 < 98.9)
+# Boolean Values
+a = True
+b = False
+print(a)
+print(b)
+print(type(a))
+
+# Booleans as Comparison Results
+x = 10
+y = 7
+print(x > y)     # True
+print(x == y)    # False
+print(x != y)    # True
+
+# Boolean Operators
+p = True
+q = False
+print(p and q)   # False
+print(p or q)    # True
+print(not p)     # False
+
 
 a = 200
 b = 33
@@ -39,7 +56,7 @@ print(bool(mylist))  #False
 
 def myFunction():
   return True
-print(myFunction())
+print(myFunction()) # Execute True everytime
 
 # Print "YES!" if the function returns True, otherwise print "NO!":
 def myFunction() :
