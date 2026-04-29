@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Player",
+        "score": 1509,
+        "distance": 1079,
+        "coins": 26,
+        "difficulty": "Normal"
+    },
+    {
+        "name": "Player",
+        "score": 729,
+        "distance": 409,
+        "coins": 10,
+        "difficulty": "Normal"
+    },
+    {
+        "name": "Player",
+        "score": 671,
+        "distance": 321,
+        "coins": 9,
+        "difficulty": "Normal"
+    },
+    {
+        "name": "Player",
+        "score": 373,
+        "distance": 153,
+        "coins": 4,
+        "difficulty": "Normal"
+    },
+    {
+        "name": "Player",
+        "score": 302,
+        "distance": 182,
+        "coins": 4,
+        "difficulty": "Normal"
+    },
+    {
+        "name": "Player",
+        "score": 189,
+        "distance": 159,
+        "coins": 3,
+        "difficulty": "Hard"
+    }
+]

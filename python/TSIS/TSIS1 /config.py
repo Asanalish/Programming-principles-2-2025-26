@@ -1,0 +1,5 @@
+DB_NAME = "phonebook_final"
+DB_USER = "postgres"
+DB_PASSWORD = "260708"
+DB_HOST = "localhost"
+DB_PORT = "5432"
